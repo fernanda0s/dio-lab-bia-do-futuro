@@ -6,10 +6,9 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 | Arquivo | Formato | Utilização no Agente |
 |---------|---------|---------------------|
-| `historico_atendimento.csv` | CSV | Contextualizar interações anteriores |
-| `perfil_investidor.json` | JSON | Personalizar recomendações |
-| `produtos_financeiros.json` | JSON | Sugerir produtos adequados ao perfil |
-| `transacoes.csv` | CSV | Analisar padrão de gastos do cliente |
+| `NIST.AI.600-1.pdf` | PDF | Framework de Gerenciamento de Riscos em IA Generativa |
+| `NIST.AI.100-1.pdf` | PDF | Framework de Gerenciamento de Riscos em IAs |
+| `381137por.pdf` | PDF | Recomendação sobre a Ética da Inteligência Artificial |
 
 > [!TIP]
 > **Quer um dataset mais robusto?** Você pode utilizar datasets públicos do [Hugging Face](https://huggingface.co/datasets) relacionados a finanças, desde que sejam adequados ao contexto do desafio.
