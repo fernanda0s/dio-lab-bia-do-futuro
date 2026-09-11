@@ -56,7 +56,7 @@ flowchart TD
 |------------|-----------|
 | Interface | [Streamlit](https://streamlit.io/) |
 | LLM | [Ollama (local)] |
-| Base de Conhecimento | [Informada pelo usuário] |
+| Base de Conhecimento | [JSON/CSV] |
 
 ---
 
